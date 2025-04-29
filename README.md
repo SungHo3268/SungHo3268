@@ -1,4 +1,11 @@
 ## Hi there 👋
+- 🧑‍💻 I'm a NLP developer.
+- 🌱 I'm a Ph.D. student majoring in Artificial Intelligence at Korea University.
+- 🔭 I’m working on <code>_AI Alignment with Huamn_</code>, <code>_Korean NLP_</code>, and <code>_Prompt Engineering_</code>.
+- 💬 You can reach me with [![Linkedin][linkedin-shield]][linkedin-url]
+
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg
+[linkedin-url]: https://www.linkedin.com/in/sungho-kim-9b5247151/
 
 <!--
 **SungHo3268/SungHo3268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
